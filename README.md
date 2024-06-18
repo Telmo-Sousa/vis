@@ -1,6 +1,6 @@
 # vis 🦀
 
-A Sorting Algorithm Performance Visualizer written in Rust. It provides a comparative analysis of various sorting algorithms by timing their execution on a reversed array of 10,000 integers and visualizing the results in a histogram.
+A Sorting Algorithm Performance Visualizer written in Rust, utilizing [Plotters](https://github.com/plotters-rs/plotters) for generating insightful histograms. This tool performs a comparative analysis of various sorting algorithms by timing their execution on a reversed array of 10,000 integers and presenting the results in a clear, graphical format.
 
 ## Features
 
