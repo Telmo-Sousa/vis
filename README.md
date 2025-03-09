@@ -47,7 +47,7 @@ A Sorting Algorithm Performance Visualizer written in Rust, utilizing [Plotters]
 
 ## Example
 
-![Sorting Performance](/sort_performance.png)
+![Sorting Performance](/sorting_algorithms.png)
 
 ## License
 
